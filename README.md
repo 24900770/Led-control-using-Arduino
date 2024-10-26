@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+### NAME: HARIHARAN.M
+### REG NO. 24900770
+# EXPERIMENT - 1 Led-control-using-Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -57,10 +59,19 @@ Security System Indicator </br>
 Emergency Signaling System </br>
 Weighing Machines </br>
 
+
 ## CIRCUIT DIAGRAM
+![WhatsApp Image 2024-10-26 at 15 54 00_51f438a0](https://github.com/user-attachments/assets/8a8c4cd3-aba9-4899-9685-4d65b806248b)
+
 
 ## PROGRAM
+![WhatsApp Image 2024-10-26 at 15 53 08_9d8fb635](https://github.com/user-attachments/assets/5f0a0aa0-8dd5-4b5b-9348-8e6b9b9d561c)
 
 ## OUTPUT
+off
+![WhatsApp Image 2024-10-26 at 15 54 17_87530fd1](https://github.com/user-attachments/assets/e7ff1dd1-37c3-4de6-860c-6b6d2cb40ed3)
+on
+![WhatsApp Image 2024-10-26 at 15 54 33_eba807aa](https://github.com/user-attachments/assets/d504816b-7d27-4f2a-a946-ef7e35cd3eb0)
 
 ## RESULT
+  The project successfuly achieved its objective of creating a simple yet effective LED control system using an arduino and push button.                                                                                                                                                                                 
