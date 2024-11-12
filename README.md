@@ -68,10 +68,14 @@ Weighing Machines </br>
 
 ## OUTPUT
 ### off
-<img src="https://github.com/user-attachments/assets/0cbf44c2-3ea8-4f77-8d2a-5a54b0557354" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/ba4ba61e-82d7-4b17-b336-82860ed82b7d"
+width="400" height="400" />
+
 
 ### on
-<img src="https://github.com/user-attachments/assets/d5cb6f60-2a69-4f55-a905-7d4862b7ec58" width="400" height="400" />
+<img src="https://github.com/user-attachments/assets/fb005066-fa58-4ef3-bd0e-a6a41f9201ef"
+width="400" height="400" />
+
 
 ## RESULT
-The project successfully achieved its objective of creating a simple yet effective LED control system using an arduino and a oushbutton.
+The project successfully achieved its objective of creating a simple yet effective LED control system using an arduino and a pushbutton.
